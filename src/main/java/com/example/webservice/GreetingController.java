@@ -1,4 +1,4 @@
-package com.example;
+package com.example.webservice;
 
 import java.util.concurrent.atomic.AtomicLong;
 
